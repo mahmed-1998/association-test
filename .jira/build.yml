@@ -1,0 +1,7 @@
+deployments:
+  environmentMapping:
+    production:
+      - "production"
+  services:
+    ids:
+    - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzUxY2MyN2JkLTQ1MDMtNDEzNS1hZGFiLWM0OTRkNTYwOTBiMC82MjRhYmI3Yy0wNDNiLTExZWUtOTRiYy0xMjhiNDI4MTk0MjQ=
